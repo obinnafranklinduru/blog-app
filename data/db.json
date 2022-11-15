@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Solidity Guild",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae tenetur similique quaerat, culpa facilis fuga animi, modi exercitationem aperiam unde. Labore, mollitia consequuntur voluptate tempore explicabo eius distinctio itaque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae tenetur similique quaerat, culpa facilis fuga animi, modi exercitationem aperiam unde. Labore, mollitia consequuntur voluptate tempore explicabo eius distinctio itaque.",
+      "author": "Obinna"
+    },
+    {
+      "id": 2,
+      "title": "Buliding a Dapplication",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae tenetur similique quaerat, culpa facilis fuga animi, modi exercitationem aperiam unde. Labore, mollitia consequuntur voluptate tempore explicabo eius distinctio itaque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae tenetur similique quaerat, culpa facilis fuga animi, modi exercitationem aperiam unde. Labore, mollitia consequuntur voluptate tempore explicabo eius distinctio itaque.",
+      "author": "Franklin"
+    },
+    {
+      "id": 3,
+      "title": "Smart Constract",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae tenetur similique quaerat, culpa facilis fuga animi, modi exercitationem aperiam unde. Labore, mollitia consequuntur voluptate tempore explicabo eius distinctio itaque.Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae tenetur similique quaerat, culpa facilis fuga animi, modi exercitationem aperiam unde. Labore, mollitia consequuntur voluptate tempore explicabo eius distinctio itaque.",
+      "author": "Duru"
+    }
+  ]
+}
